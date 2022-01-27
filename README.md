@@ -1,4 +1,4 @@
-# Analaysing-ADHD-dataset
+# Gohyperactivity
 Exploratory data analysis and different machine learning algorithms were applied to the ADHD dataset from the IEEE data port.
 
 # Brief summary
